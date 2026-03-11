@@ -1,0 +1,24 @@
+1.Understand the difference between block-level and inline elements. Practice examples with <div>, <p> (block) and <span>, <a> (inline).
+
+Block-Level Elements (HTML);
+
+     Block-level elements are HTML elements that start on a new line and take up the full width available in their parent container.
+     They are mainly used to structure the layout of a webpage.
+
+Key Features;
+
+     Start on a new line.
+     Occupy the entire width of the page or container.
+     Can contain inline elements and other block elements.
+
+Inline Elements (HTML);
+
+     Inline elements are HTML elements that do not start on a new line and only take up as much width as necessary.
+     They are usually used inside block elements to format or link small parts of text.
+
+Key Features;
+
+     Do not start on a new line.
+     Take only the space needed.
+     Usually appear within text.
+     Cannot normally contain block elements.
